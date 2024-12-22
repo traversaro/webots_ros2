@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.10)
+cmake_minimum_required(VERSION 3.10...3.30)
 project(webots_ros2_driver)
 
 set(CMAKE_CXX_STANDARD 17)
